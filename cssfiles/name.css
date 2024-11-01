@@ -1,0 +1,292 @@
+.c {
+
+        height: 260px;
+        
+    background-color: #F4D03F;
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+        margin-top: 20px;
+        padding: 10px 40px;
+        
+}
+
+@media(max-width:1266px) {
+        .c {
+                margin-top: -70px;
+
+
+        }
+}
+
+@media(max-width:1086px) {
+        .c {
+                margin-top: -100px;
+        }
+}
+
+@media(max-width:1040px) {
+        .c {
+                margin-top: -150px;
+                height: 280px;
+        }
+}
+
+@media(max-width:902px) {
+        .c {
+                margin-top: 200px;
+                height: 300px;
+        }
+}
+
+@media(max-width:850px) {
+        .c {
+                margin-top: 150px;
+                height: 330px;
+        }
+}
+
+@media(max-width:750px) {
+        .c {
+                margin-top: 100px;
+                height: 350px;
+        }
+}
+
+@media(max-width:690px) {
+        .c {
+                margin-top: 40px;
+                height: 380px;
+        }
+}
+
+@media(max-width:620px) {
+        .c {
+                margin-top: 20px;
+                height: 200px;
+        }
+}
+
+@media(max-width:590px) {
+        .c {
+                margin-top: -60px;
+        }
+}
+
+@media(max-width:490px) {
+        .c {
+                margin-top: -100px;
+                height: 250px;
+        }
+}
+
+@media(max-width:410px) {
+        .c {
+                margin-top: -180px;
+        }
+}
+
+@media(max-width:400px) {
+        .c {
+                margin-top: 740px;
+        }
+}
+
+@media(max-width:377px) {
+        .c {
+                margin-top: 650px;
+                height: 280px;
+        }
+}
+
+@media(max-width:377px) {
+        .c {
+                margin-top: 650px;
+        }
+}
+
+@media(max-width:340px) {
+        .c {
+                margin-top: 540px;
+        }
+}
+
+@media(max-width:315px) {
+        .c {
+                margin-top: 520px;
+        }
+}
+
+@media(max-width:315px) {
+        .c {
+                margin-top: 520px;
+        }
+}
+
+@media(max-width:285px) {
+        .c {
+                margin-top: 380px;
+        }
+}
+
+@media(max-width:245px) {
+        .c {
+                margin-top: 310px;
+                height: 340px;
+        }
+}
+
+@media(max-width:227px) {
+        .c {
+                margin-top: 250px;
+        }
+}
+
+@media(max-width:210px) {
+        .c {
+                margin-top: 200px;
+                height: 420px;
+        }
+}
+
+@media(max-width:180px) {
+        .c {
+                margin-top: 80px;
+                height: 680px;
+        }
+}
+
+@media(max-width:150px) {
+        .c {
+                margin-top: 20px;
+                height: 740px;
+        }
+}
+
+@media(max-width:120px) {
+        .c {
+                margin-top: -50px;
+        }
+}
+
+@media(max-width:90px) {
+        .c {
+                margin-top: -190px;
+        }
+}
+
+
+@media(max-width:50px) {
+        .c {
+                margin-top: -390px;
+        }
+}
+
+
+
+/* text of name bar  */
+
+.c1 {
+        color: white;
+        font-weight: 600;
+        text-align: center;
+        font-size: 40px;
+}
+
+@media(max-width:600px){
+
+        .c1 {
+               
+                font-size: 30px;
+        }
+        
+
+                
+}
+@media(max-width:390px){
+
+        .c1 {
+               
+                font-size: 20px;
+        }
+        
+
+                
+}
+@media(max-width:271px){
+
+        .c1 {
+               
+                font-size: 15px;
+        }
+        
+
+                
+}
+@media(max-width:205px){
+
+        .c1 {
+               
+                font-size: 10px;
+        }
+        
+
+                
+}
+@media(max-width:144px){
+
+        .c1 {
+               
+              display: none;
+        }
+        
+
+                
+}
+
+
+/* paragraph */
+
+.c2{
+
+color: white;
+
+}
+
+
+
+
+.c2:hover{
+
+        color: rgb(100, 0, 53);
+        }
+
+        @media(max-width:600px){
+
+                .c2 {
+                       
+                        font-size: 10px;
+                }
+                
+        
+                        
+        }
+        @media(max-width:344px){
+
+                .c2 {
+                       
+                        font-size: 8px;
+                }
+                
+        
+                        
+        }
+        @media(max-width:148px){
+
+                .c2 {
+                       
+                     display: none;
+                }
+                
+        
+                        
+        }
+
